@@ -100,7 +100,7 @@ def main():
     # Main loop
     while not done:
 
-        pygame.time.delay(1000)
+        pygame.time.delay(600)
 
         # Handle any Events here
         for event in pygame.event.get():
