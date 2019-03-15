@@ -1,10 +1,10 @@
 from random import randrange
 import os
 
-num_rows = 100
-num_cols = 100
-starting_pos = (1,1)
-num_steps = 100
+num_rows = 40
+num_cols = 40
+starting_pos = (19,19)
+num_steps = 30
 
 
 MY_DIR = os.path.dirname(os.path.realpath(__file__))
